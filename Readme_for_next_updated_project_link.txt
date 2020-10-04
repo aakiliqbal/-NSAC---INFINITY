@@ -9,4 +9,4 @@ https://drive.google.com/drive/folders/1eXLg7h11BoMmORCP8QJdujWNe4DYFhqb?usp=sha
 
  for update 3
 
-extract final build in a folder and run projectboost.exe file
+extract "infinity final build" in a folder and run 3_Project_Boost.exe file.
