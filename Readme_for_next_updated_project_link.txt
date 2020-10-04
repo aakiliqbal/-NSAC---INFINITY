@@ -7,8 +7,6 @@ link--->
 
 https://drive.google.com/drive/folders/1eXLg7h11BoMmORCP8QJdujWNe4DYFhqb?usp=sharing
 
+ for update 3
 
-
-link for update 3
-
-https://drive.google.com/drive/folders/1eXLg7h11BoMmORCP8QJdujWNe4DYFhqb?usp=sharing
+extract final build in a folder and run projectboost.exe file
